@@ -1,4 +1,4 @@
-# Hi there, I'm JC 
+# I'm JC 
 
 ### Frontend Developer | Game Dev | Artisan
 
